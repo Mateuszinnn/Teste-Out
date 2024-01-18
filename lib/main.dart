@@ -13,7 +13,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  int currentPageIndex = 0; // Variável para rastrear a página atual
+  int currentPageIndex = 0; // Variável para rastrear a página atual a
 
   @override
   Widget build(BuildContext context) {
